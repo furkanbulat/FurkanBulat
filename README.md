@@ -22,4 +22,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erentemelli&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="furkanbulat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanbulat&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="furkanbulat" /></p>
