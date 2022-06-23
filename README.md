@@ -9,16 +9,9 @@
 
 - 🤝 I’m looking for help with **SQL, Java**
 
-- 💬 Ask me about **C#, Unity**
+- 💬 Ask me about **C#, Unity, Arduino, Visual Studio, 3Ds Max, Adobe Suite Apps**
 
 - 📫 How to reach me **furkanbulat54@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/17773920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17773920" height="30" width="40" /></a>
-<a href="https://instagram.com/eren.temelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkanbulatt" height="30" width="40" /></a>
-</p>
-
 
 
 
