@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **SQL, Java**
 
-- 💬 Ask me about **C#, Unity, Arduino, Visual Studio, 3Ds Max, Adobe Suite Apps**
+- 💬 Ask me about **C#, Unity, Visual Studio, 3Ds Max, Adobe Suite Apps, Arduino**
 
 - 📫 How to reach me **furkanbulat5@gmail.com**
 
