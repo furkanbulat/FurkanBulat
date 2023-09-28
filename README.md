@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanbulat" alt="furkanbulat" /></a> </p>
 
-- 🔭 I’m currently working on ["The Light of the Forest" for Google's Game and Application Academy Bootcamp](https://www.youtube.com/watch?v=Gd8jWudJaf8)
+- 🔭 I’m currently working on [My own Mobile game "Reflexor" soon to be released to Android.]
 
 - 🌱 I’m currently learning **C#, Unity and SQL**
 
 - 🤝 I’m looking for help with **SQL, Java**
 
-- 💬 Ask me about **C#, Unity, Visual Studio, 3Ds Max, Adobe Suite Apps, Arduino**
+- 💬 Ask me about **C#, Unity, Visual Studio, 3Ds Max, Adobe Suite Apps, Figma, Arduino**
 
 - 📫 How to reach me **furkanbulat5@gmail.com**
 
